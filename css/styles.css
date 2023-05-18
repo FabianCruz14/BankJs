@@ -1,0 +1,28 @@
+.container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+.container h1, .container h2, .container h3 {
+    color: #333;
+}
+
+.container form, .container button {
+    margin: 10px 0;
+}
+
+.container input[type="text"], .container input[type="password"], .container input[type="number"] {
+    padding: 5px;
+}
+
+.container button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
